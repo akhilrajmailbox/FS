@@ -2,7 +2,7 @@
 
 # ! have five branches
 #
-# master	>>	all files
+# master	>>	info
 # glusterfs	>>	glusterfs configuration files
 # ipfs		>>	ipfs configuration files
 # zfs 		>>	zfs configuration files
